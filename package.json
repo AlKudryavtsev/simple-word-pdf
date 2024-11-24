@@ -7,7 +7,7 @@
   "files": [
     "dist"
   ],
-  "author": "Alexey Kudryavtsev <alexey.php@gmail.com>",
+  "author": "Alexey Kudryavtsev <alexey.php@yandex.ru>",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^22.9.3",
